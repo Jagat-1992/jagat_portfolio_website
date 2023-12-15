@@ -267,6 +267,7 @@ footer {
   width: 90%;
   margin: 0 auto;
   padding: 1.208333333333333vw 1.3020833333333333vw;
+  /* margin-bottom: 3vw; */
 }
 .footer-container h2 {
   color: #fff;
@@ -288,13 +289,13 @@ footer {
   justify-content: space-between;
 }
 .contact1 {
-  height: 5vw;
-  width: 16%;
+  height: 8vw;
+  width: 25%;
   /* background-color: rgb(0, 255, 140); */
 }
 .contact2 {
-  height: 5vw;
-  width: 16%;
+  height: 8vw;
+  width: 22%;
   /* background-color: rgb(0, 38, 255); */
 }
 .social_link {
@@ -308,7 +309,7 @@ footer {
   color: #fff;
 }
 .social_link i {
-  font-size: 1.2vw;
+  font-size: 2.2vw;
 }
 .github {
   float: inline-end;
@@ -326,11 +327,12 @@ footer {
   text-align: center;
   font-size: 1.3vw;
   background-color: #393939;
+  /* background-color: red; */
 }
 
 /* responsiveness started */
 
-@media (max-width: 600px) {
+@media (max-width: 1000px) {
   /* header part started */
   header {
     background-color: #393939;
@@ -570,6 +572,7 @@ footer {
   }
 
   footer {
+    /* background-color: #9a33ff; */
     background-color: #393939;
     margin-top: 5vw;
   }
@@ -637,7 +640,8 @@ footer {
     width: 100%;
     text-align: center;
     font-size: 3vw;
-    background-color: #393939;
+    /* background-color: #393939; */
+    /* background-color: red; */
   }
 }
 
@@ -741,7 +745,7 @@ footer {
   margin-right: 1vw;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1000px) {
   .all-project {
     height: 145vw;
     width: 100%;
@@ -880,7 +884,7 @@ footer {
   color: #51cde7;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1000px) {
   .footer-contact {
     margin-top: 1vw;
     /* background-color: red; */
