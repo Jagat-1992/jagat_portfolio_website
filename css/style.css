@@ -287,12 +287,12 @@ footer {
   align-items: center;
   justify-content: space-between;
 }
-.contact1{
+.contact1 {
   height: 5vw;
   width: 16%;
   /* background-color: rgb(0, 255, 140); */
 }
-.contact2{
+.contact2 {
   height: 5vw;
   width: 16%;
   /* background-color: rgb(0, 38, 255); */
@@ -591,12 +591,12 @@ footer {
     align-items: center;
     justify-content: space-between;
   }
-  .contact1{
+  .contact1 {
     height: 17vw;
     width: 45%;
     /* background-color: rgb(0, 255, 140); */
   }
-  .contact2{
+  .contact2 {
     height: 17vw;
     width: 45%;
     /* background-color: rgb(0, 38, 255); */
