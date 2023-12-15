@@ -632,6 +632,13 @@ footer {
   .instagram {
     float: inline-end;
   }
+  .creator-sign {
+    height: 7vw;
+    width: 100%;
+    text-align: center;
+    font-size: 3vw;
+    background-color: #393939;
+  }
 }
 
 /* .project-page1 {
@@ -877,5 +884,15 @@ footer {
   .footer-contact {
     margin-top: 1vw;
     /* background-color: red; */
+  }
+  .contact-paragraph {
+    height: 54vw;
+    width: 100%;
+    text-align: center;
+    font-size: 5.6vw;
+    color: #ffffff;
+    /* margin-top: -2vw; */
+    padding: 4vw;
+    /* background-color: #1373d1; */
   }
 }
