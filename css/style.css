@@ -787,6 +787,8 @@ footer {
   margin-right: 1vw;
 }
 
+/* project page responsive started here */
+
 @media (max-width: 1000px) {
   .all-project {
     height: 145vw;
@@ -903,28 +905,38 @@ footer {
 
 /* project page coding ended here */
 
-/* contact page coding started here */
-
-.contact-paragraph {
-  height: 40vw;
-  width: 100%;
-  text-align: center;
-  font-size: 4.9vw;
-  color: #ffffff;
-  padding: 4vw;
-  /* background-color: #1373d1; */
-}
-.contact-paragraph h2 .email-contact {
-  color: #fc626a;
-}
-.contact-paragraph h2 .instagram-contact {
-  color: #f6ba53;
-}
-.contact-paragraph h2 .linkedin-contact {
-  color: #51cde7;
-}
+/* experience page responsive started here */
 
 @media (max-width: 1000px) {
+  .experiance-with {
+    background-color: #161513;
+  }
+}
+
+/* experience page responsive started here */
+
+/* contact page coding started here */
+
+@media (max-width: 1000px) {
+  .contact-paragraph {
+    height: 40vw;
+    width: 100%;
+    text-align: center;
+    font-size: 4.9vw;
+    color: #ffffff;
+    padding: 4vw;
+    /* background-color: #1373d1; */
+  }
+  .contact-paragraph h2 .email-contact {
+    color: #fc626a;
+  }
+  .contact-paragraph h2 .instagram-contact {
+    color: #f6ba53;
+  }
+  .contact-paragraph h2 .linkedin-contact {
+    color: #51cde7;
+  }
+
   .footer-contact {
     margin-top: 1vw;
     /* background-color: red; */
